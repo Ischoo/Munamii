@@ -1,0 +1,153 @@
+
+#home_box{
+    position: relative;
+    top: 350px;
+    width: 30%;
+    padding-left: 60%;
+    padding-right: 10%;
+}
+#about_box{
+    position: relative;
+    top: 350px;
+    width: 30%;
+    padding-left: 60%;
+    padding-right: 10%;
+}
+#contact_box{
+    position: relative;
+    top: 350px;
+    width: 30%;
+    padding-left: 60%;
+    padding-right: 10%;
+}
+#welcome_text{
+    
+    text-align: center;
+    margin-top: 5%;
+    
+
+}
+.header{
+    position: fixed;
+    top: 0px;
+    left: 50%;
+    right: 10%;
+    width: 40%;
+    height: 15%;
+     
+}
+
+#logo_img{
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 250px;
+    
+
+}
+#head_links{
+
+    position: absolute;
+    top: 150px;
+    left: 50px;
+}
+#cake_pic_home{
+    
+    background: url(/img/cake_home.jpg);
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+    width: 50%;
+    height: 100%;
+    left: 0;
+    border-right: 5px solid black;
+
+}
+#pic_about{
+    
+    background: url(/img/cake_about.jpg);
+    position:absolute;
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+    width: 50%;
+    height: 100%;
+    left: 0;
+    border-right: 5px solid black;
+
+}
+#pic_contact{
+    
+    background: url(/img/cake_contact.jpg);
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+    position: absolute;
+    width: 50%;
+    height: 100%;
+    left: 0;
+    border-right: 5px solid black;
+
+}
+.footer{
+    position: fixed;
+    bottom: 0px;
+    left: 70%;
+    right: 20%;
+    width: 40%;
+    height: 15%;
+     
+}
+.left_products{
+    position: absolute;
+    width: 50%;
+    height:fit-content;
+    left: 0;
+    background-color: lightpink;
+    background-size: cover;
+    
+    border-right: 5px solid black;
+}
+#container{
+    height: 80%;
+    width: 80%;
+    margin: 10%;
+    
+}
+#cake_list {
+    margin: 5%;
+    height: 40%;
+    width: 80%;
+    display: flex;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+#cupcake_list{
+    
+    margin: 5%;
+    height: 40%;
+    width: 80%;
+    display: flex;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+#container img {
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    
+}
+.right_product{
+    position:fixed;
+    height: 300px;
+    width: 300px;
+    right: 15%;
+    top: 30%;
+    border: 5px solid black;
+    
+    
+}
+#selected{
+    width: 300px;
+    height: 300px;
+}
+    
+
