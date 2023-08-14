@@ -97,7 +97,7 @@
 .left_products{
     position: absolute;
     width: 50%;
-    height:fit-content;
+    height:100%;
     left: 0;
     background-color: lightpink;
     background-size: cover;
