@@ -51,7 +51,7 @@
 }
 #cake_pic_home{
     
-    background: url(/img/cake_home.jpg);
+    background: url(./img/cake_home.jpg);
     position: absolute;
     background-repeat: no-repeat;
     background-size:100% 100%;
@@ -63,7 +63,7 @@
 }
 #pic_about{
     
-    background: url(/img/cake_about.jpg);
+    background: url(./img/cake_about.jpg);
     position:absolute;
     background-repeat: no-repeat;
     background-size:100% 100%;
@@ -75,7 +75,7 @@
 }
 #pic_contact{
     
-    background: url(/img/cake_contact.jpg);
+    background: url(./img/cake_contact.jpg);
     background-repeat: no-repeat;
     background-size:100% 100%;
     position: absolute;
